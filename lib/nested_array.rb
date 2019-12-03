@@ -39,7 +39,7 @@ end
 def matrix_update(matrix, row, column, new_value)
   ENNET_HOUSE
   ENNET_HOUSE[2] = "Tiny Ewell"
-  ENNET_HOUSE
+  ENNET_HOUSE[0,1,2,3,4]
 # Update the matrix location at row and column to have the value of new_value
   # Return the updated matrix
 end
