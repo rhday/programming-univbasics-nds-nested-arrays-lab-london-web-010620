@@ -38,7 +38,7 @@ end
 
 def matrix_update(matrix, row, column, new_value)
  matrix_update = ["Don Gately", "Joelle van Dyne", "Tiny Ewell", "Kate Gompert", "Bruce Green"]
- matrix_update
+ matrix_update[]
 # Update the matrix location at row and column to have the value of new_value
   # Return the updated matrix
 end
